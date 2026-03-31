@@ -1,0 +1,17 @@
+{
+  "domain": "aliaoo",
+  "pitch": "AI-powered RFP responses",
+  "createdAt": "2026-03-31T17:43:24Z",
+  "steps": {
+    "landing-page": {
+      "status": "completed",
+      "url": "https://aliaoo.com"
+    },
+    "find-prospects": {
+      "status": "pending"
+    },
+    "generate-copy": {
+      "status": "pending"
+    }
+  }
+}
